@@ -1,0 +1,17 @@
+#forecast {
+    margin-top: 30px;
+    display: none;
+    text-align: left;
+}
+
+.forecast-item {
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.forecast-item p {
+    margin: 5px 0;
+}
